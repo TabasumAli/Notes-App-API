@@ -1,0 +1,22 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "This is a notes keeping App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Stem Wizards Academia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "mocha": "^10.2.0",
+    "request": "^2.88.2"
+  }
+}
